@@ -1,4 +1,5 @@
 let c = document.querySelector("img");
+console.log("Your destination is 9(3/4)")
 c.addEventListener("click", () => {
   c.src =
     "https://media1.tenor.com/m/vkDuuNm40XoAAAAd/hogwarts-legacy-warner-bros-interactive-entertainment.gif";
